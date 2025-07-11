@@ -1,7 +1,7 @@
 ## Hello there!
-- 🔭 I’m currently working on automated patching using ansible for all the pi's around here!
-- 🌱 I’m currently learning AWS Soltions Architecting
-- 👯 I’m looking to collaborate on automation in general
+- I’m currently working on automated patching using ansible for all the pi's around here!
+- I’m currently learning AWS Soltions Architecting
+- I’m looking to collaborate on automation in general
 <!--
 **ediodene/ediodene** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
