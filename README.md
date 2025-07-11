@@ -5,9 +5,6 @@
 <!--
 **ediodene/ediodene** is a ✨ _special_ ✨ repository because its cool like that.
 Here are some ideas to get you started:
-
-
-
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
