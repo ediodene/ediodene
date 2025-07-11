@@ -3,8 +3,7 @@
 - I’m currently learning AWS Soltions Architecting
 - I’m looking to collaborate on automation in general
 <!--
-**ediodene/ediodene** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+**ediodene/ediodene** is a ✨ _special_ ✨ repository because its cool like that.
 Here are some ideas to get you started:
 
 
